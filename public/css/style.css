@@ -1,0 +1,198 @@
+.btn-pink {
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-pink:hover {
+    background-color: #00bfff;
+    color: white;
+}
+
+.table-pink {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.badge {
+    font-size: 1rem;
+    background-color: #1e90ff;
+    color: white;
+}
+
+.admin-container {
+    background-color: #e6f2ff;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.bg-pink {
+    background-color: #1e90ff !important;
+}
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #e6f7ff;
+    color: #333;
+}
+
+.btn-pastel {
+    background-color: #87cefa;
+    color: white;
+    border: none;
+    transition: all 0.2s ease-in-out;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.btn-pastel:hover {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.card-laptop {
+    border: 2px dashed #87cefa;
+    border-radius: 15px;
+    transition: transform 0.2s;
+}
+
+.card-laptop:hover {
+    transform: scale(1.02);
+}
+
+.table-pink thead {
+    background-color: #87cefa;
+    color: white;
+}
+
+.badge {
+    background-color: #1e90ff;
+    color: white;
+    font-size: 1rem;
+}
+
+.bg-pink {
+    background-color: #1e90ff !important;
+}
+
+.card-pastel {
+    border: 1px solid #b3e0ff;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.btn-pastel {
+    background-color: #87cefa;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-pastel:hover {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.btn-pink-outline {
+    border: 2px solid #1e90ff;
+    color: #1e90ff;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-pink-outline:hover {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.form-control:focus {
+    border-color: #87cefa;
+    box-shadow: 0 0 0 0.2rem rgba(30, 144, 255, 0.25);
+}
+
+.bg-pink {
+    background-color: #1e90ff !important;
+}
+
+.card-pastel {
+    border: 1px solid #b3e0ff;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.btn-pastel {
+    background-color: #87cefa;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-pastel:hover {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.btn-pink-outline {
+    border: 2px solid #1e90ff;
+    color: #1e90ff;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-pink-outline:hover {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.form-control:focus {
+    border-color: #87cefa;
+    box-shadow: 0 0 0 0.2rem rgba(30, 144, 255, 0.25);
+}
+
+.card-laptop {
+    border: 2px dashed #87cefa;
+    transition: transform 0.3s ease;
+    border-radius: 15px;
+}
+
+.card-laptop:hover {
+    transform: scale(1.02);
+}
+
+.btn-beli {
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.btn-beli:hover {
+    background-color: #00bfff;
+    color: white;
+}
+
+.alert-pink {
+    background-color: #b3e0ff;
+    color: #003366;
+    border: none;
+}
+
+.table-pink {
+    background-color: #87cefa !important;
+    color: white;
+}
+
+.hover-zoom img {
+    transition: transform 0.3s ease;
+}
+
+.hover-zoom img:hover {
+    transform: scale(1.05);
+}
